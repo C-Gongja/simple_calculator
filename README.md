@@ -1,9 +1,25 @@
 # simple_calculator
 
 ## Description
-- Basic arithmetic operations: addition (`+`), subtraction (`-`), multiplication (`*`), division (`/`),  mod(`mod()`), and square (`square()`). 
-- Scientific operations: sinOfDegree(`sinOfDegree`) and cosOfDegree(`cosOfDegree`)
-- Self-defined function: getIntPart(`getIntPart`), getDecimalPart(`getDecimalPart`), getXdigit(`getXdigit`), sumFibonacci(`sumFibonacci`), sumIntPart(`sumIntPart`), sumDecimalPart(`sumDecimalPart`), crossMultiply(`crossMultiply`), and factorial(`factorial`).
+- Basic arithmetic operations:
+  - addition (`+`)
+  - subtraction (`-`)
+  - multiplication (`*`)
+  - division (`/`)
+  - mod(`mod()`)
+  - square (`square()`). 
+- Scientific operations:
+  - sinOfDegree(`sinOfDegree`)
+  - cosOfDegree(`cosOfDegree`)
+- Self-defined function:
+  - getIntPart(`getIntPart`)
+  - getDecimalPart(`getDecimalPart`)
+  - getXdigit(`getXdigit`)
+  - sumFibonacci(`sumFibonacci`)
+  - sumIntPart(`sumIntPart`)
+  - sumDecimalPart(`sumDecimalPart`)
+  - crossMultiply(`crossMultiply`)
+  - factorial(`factorial`).
 
 
 ## How to run GoogleTest
