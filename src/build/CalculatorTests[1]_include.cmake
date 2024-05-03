@@ -1,0 +1,5 @@
+if(EXISTS "/Users/yoon/Desktop/School/UCD/ECS_153_security/ecs153-sq-hw0-main/src/build/CalculatorTests[1]_tests.cmake")
+  include("/Users/yoon/Desktop/School/UCD/ECS_153_security/ecs153-sq-hw0-main/src/build/CalculatorTests[1]_tests.cmake")
+else()
+  add_test(CalculatorTests_NOT_BUILT CalculatorTests_NOT_BUILT)
+endif()
